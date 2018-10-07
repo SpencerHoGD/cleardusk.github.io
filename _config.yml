@@ -7,7 +7,7 @@ url: 'https://guojianzhu.com' # your host
 
 # nav 中文字符空格：&emsp;
 nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
-  Homepage: '/'
+  Homepage: '/index.html'
   # Tags: '/tags.html'
   Timeline: '/timeline.html'
   About me: '/about.html'
@@ -68,7 +68,7 @@ client_secret: ''  # 注册 OAuth Application 后获得的 client_secret
 
 # Share : weibo, qq, wechat, tencent, douban, qzone, linkedin, diandian, facebook, twitter, google
 social-share: true
-social-share-items: ['qq', 'wechat', 'weibo', 'twitter', 'facebook']
+social-share-items: ['wechat', 'weibo', 'twitter', 'facebook']
 
 # 百度统计 在baidu-url里填写自己相关的url代码
 baidu: true
