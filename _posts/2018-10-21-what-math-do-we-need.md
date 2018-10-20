@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 我们需要怎么样的数学
+title: 我们需要怎样的数学
 author: Jianzhu Guo
 date: 2018-10-21
 color: rgb(120,170,120)
