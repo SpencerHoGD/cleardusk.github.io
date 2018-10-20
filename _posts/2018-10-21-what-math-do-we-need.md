@@ -11,7 +11,7 @@ cover: '/assets/pics/terence.jpg'
 
 [matrix67的文章](http://www.matrix67.com/blog/archives/4294) 和 [秋水无涯的文章](https://www.douban.com/note/148097664/)，后者是对前者的一个回应。
 两篇都看一下，自己会有怎样的想法和思考？
-以下是这两篇文章，题目均为 **我们需要怎样的数学**。
+以下是摘的这两篇文章，题目均为 **我们需要怎样的数学**。
 
 ---
 ### [matrix67 的文章](http://www.matrix67.com/blog/archives/4294)
