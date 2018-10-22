@@ -7,6 +7,8 @@ color: rgb(91,111,190)
 cover: '/assets/pics/tools.jpg'
 ---
 
+<!-- todo: links, nvtop, gpustat, GPUtil -->
+
 日常工作中需要经常对笔记本、PC、服务器等进行状态监控，最基本的无外乎 CPU、GPU、磁盘、内存、 IO、网络状况等，简单划分就是计算资源，存储资源和 IO。本博客会记录一些我认为比较实用的一些工具。
 
 ## top & htop & glances
