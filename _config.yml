@@ -20,7 +20,7 @@ NickName: 'cleardusk'
 webtitle: 'Research & Coding'
 bio: ''
 about: true
-aboutyou: '&emsp;&emsp;My name is Guo Jianzhu (郭建珠). I graduated from <a href="http://www.seu.edu.cn">Southeast University</a> with B.S. in GIS (Geographical Information System). Now, I am a Ph.D. student at <a href="http://www.nlpr.ia.ac.cn/nlpren/EN/volumn/home.shtml">National Laboratory of Pattern Recognition</a>, <a href="http://english.cas.cn">Chinese Academy of Sciences</a>, supervised by Prof. <a href="http://www.cbsr.ia.ac.cn/users/szli">Stan Z. Li</a>, where I mainly research on <b>face analysis</b>, <b>face recognition</b>, <b>3D face</b> and <b>deep learning</b>. <br/>&emsp;&emsp;More to see <a href="/2018/10/07/index.html">here</a>.'
+aboutyou: '&emsp;&emsp;My name is Guo Jianzhu (郭建珠). I graduated from <a href="http://www.seu.edu.cn">Southeast University</a> with B.S. in GIS (Geographical Information System). Now, I am a Ph.D. student at <a href="http://www.nlpr.ia.ac.cn/nlpren/EN/volumn/home.shtml">National Laboratory of Pattern Recognition</a>, <a href="http://english.cas.cn">Chinese Academy of Sciences</a>, supervised by Prof. <a href="http://www.cbsr.ia.ac.cn/users/szli">Stan Z. Li</a>, where I mainly research on <b>face analysis</b>, <b>face recognition</b>, <b>3D face</b> and <b>deep learning</b>. <br/>&emsp;&emsp;More to see <a href="/2018/10/07/index.html">here</a>.<br><br>My WeChat QR code:<br><img src="/assets/pics/qrcode_me.jpg" alt="WeChat QR Code" align="middle">'
 portraits: 'assets/pics/me_v22.jpg' # your portraits image file path
 
 # SNS
