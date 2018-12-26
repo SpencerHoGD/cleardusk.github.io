@@ -7,7 +7,8 @@ url: 'https://guojianzhu.com' # your host
 
 # nav 中文字符空格：&emsp;
 nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
-  Homepage: '/index.html'
+  Homepage: '/index_homepage.html'
+  # Homepage: '/2018/10/07/index.html'
   # Tags: '/tags.html'
   Timeline: '/timeline.html'
   # About me: '/about.html'
