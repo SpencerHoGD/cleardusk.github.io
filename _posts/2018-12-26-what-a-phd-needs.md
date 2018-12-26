@@ -1,13 +1,13 @@
 ---
 layout: post
-title: What Do A PhD Needs?
+title: What Does A PhD Need?
 date: 2018-12-26
 author: Jianzhu Guo
 color: rgb(146,188,136)
 cover: '/assets/pics/PhD.jpg'
 ---
 
-## What Do A PhD Needs?
+## What Does A PhD Need?
 
 This is an old [post](https://www.zybuluo.com/cleardusk/note/765881) from [HERE](http://matt.might.net/articles/successful-phd-students/).
 
