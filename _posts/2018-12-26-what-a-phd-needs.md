@@ -7,8 +7,9 @@ color: rgb(146,188,136)
 cover: '/assets/pics/PhD.jpg'
 ---
 
-This is an old [post](https://www.zybuluo.com/cleardusk/note/765881).
-From: http://matt.might.net/articles/successful-phd-students/
+## What Do A PhD Need?
+
+This is an old [post](https://www.zybuluo.com/cleardusk/note/765881) from [HERE](http://matt.might.net/articles/successful-phd-student).
 
 ### **What doesn't matter?**
 
