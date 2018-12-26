@@ -9,7 +9,7 @@ cover: '/assets/pics/PhD.jpg'
 
 ## What Do A PhD Need?
 
-This is an old [post](https://www.zybuluo.com/cleardusk/note/765881) from [HERE](http://matt.might.net/articles/successful-phd-student).
+This is an old [post](https://www.zybuluo.com/cleardusk/note/765881) from [HERE](http://matt.might.net/articles/successful-phd-students/).
 
 ### **What doesn't matter?**
 
