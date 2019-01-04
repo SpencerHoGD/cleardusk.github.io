@@ -8,11 +8,11 @@ url: 'https://guojianzhu.com' # your host
 # nav 中文字符空格：&emsp;
 nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
   # Homepage: '/index.html'
-  Homepage: '/homepage.html'
+  Homepage: '/index.html'
   # Tags: '/tags.html'
   Timeline: '/timeline.html'
   # About me: '/about.html'
-  About me: 'index.html'
+  About me: '/aboutme.html'
   # Friend: '/friendLink.html'
 
 # 博主
