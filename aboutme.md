@@ -16,10 +16,12 @@ cover: '/assets/pics/me_v22.jpg'
         border-radius:50%;
     }
     </style>
-    <img class="circle--square" src="/assets/pics/me_v22.png" alt="Me" width="256px">
+    <img class="circle--square" src="/assets/pics/me_v22.png" alt="Me" width="224px">
 </p>
 
 <p></p>
+
+<hr />
 <center>
 <p>My name is Guo Jianzhu (郭建珠).</p>
 
@@ -40,6 +42,7 @@ Now, I am a Ph.D. student at <a href="http://www.nlpr.ia.ac.cn/nlpren/EN/volumn/
 <center>
     <p> 
         <strong>
+        <a href="/publications.html">Publications</a> /
         <a href="/assets/files/resume_en.pdf">CV_Eng</a> / 
         <a href="/assets/files/resume_zh.pdf">CV_中文</a>
         </strong>
@@ -70,5 +73,5 @@ Now, I am a Ph.D. student at <a href="http://www.nlpr.ia.ac.cn/nlpren/EN/volumn/
 <!-- ![](/assets/pics/qrcode_me.jpg) -->
 <!-- ![](/assets/pics/qrcode_me_2.png) -->
 <p align="center">
-  <img src="/assets/pics/qrcode_me_2.png" alt="WeChat" width="512px">
+  <img src="/assets/pics/qrcode_me_2.png" alt="WeChat" width="448px">
 </p>
