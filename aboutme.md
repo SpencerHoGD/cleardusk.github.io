@@ -42,7 +42,7 @@ Now, I am a Ph.D. student at <a href="http://www.nlpr.ia.ac.cn/nlpren/EN/volumn/
 <center>
     <p> 
         <strong>
-        <a href="/Publications.html">Publications</a> /
+        <a href="/publications.html">Publications</a> /
         <a href="/assets/files/resume_en.pdf">CV_Eng</a> / 
         <a href="/assets/files/resume_zh.pdf">CV_中文</a>
         </strong>
